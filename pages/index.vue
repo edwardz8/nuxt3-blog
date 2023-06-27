@@ -1,6 +1,6 @@
 <template>
     <div class="container mx-auto mt-4 flex justify-between">
-        <h1 class="ml-2 text-2xl">ztv0x blog</h1>
+        <h1 class="ml-2 text-xl">ztv0x</h1>
         <div class="mr-2">
             <NuxtLink to="/blog" class=" bg-gray-500 hover:bg-gray-600 text-white py-2 px-4 rounded-sm mb-8">blog</NuxtLink>
         </div>
@@ -32,11 +32,13 @@
             so I'm still stuck in VS Code land indefinitely. 🌲
         </p>
     </div>
+    <Projects />
+    <Posts />
 </template>
 
 <script setup>
 definePageMeta({
-    colorMode: 'dark'
+    colorMode: 'dark',
 })
 </script>
 
