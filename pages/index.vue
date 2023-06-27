@@ -20,7 +20,7 @@
             arrives.
         </p>
 
-        <p class="mt-8">
+        <p class="mt-8 mb-4">
             I also like to teach and demonstrate the knowledge I have gained during my time as a developer. Eventually, I
             intend to learn Rust and/or C++ and work with embedded systems; I've read a lot of the docs and followed a few
             tutorials on these 2 lower-level languages but have not yet had the chance yet to truly delve into them as there
