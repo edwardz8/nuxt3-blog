@@ -3,8 +3,6 @@ title: Nuxt 3 Full-Stack Guide
 description: How to develop Full-Stack Nuxt 3 apps with Prisma
 date: 2023-06-26
 cover: golf1.jpg
-tags:
-- vue
 ---
 
 # Nuxt 3 Full-Stack Guide

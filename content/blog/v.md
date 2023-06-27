@@ -3,10 +3,6 @@ title: Nuxt.js 3 with Prisma
 description: Learn how to get started with Prisma and Nuxt 3
 date: 2023-06-26
 cover: golf0.jpg
-tags:
-- nuxt
-- vue
-- prisma
 ---
 
 # Learn how to get started with Prisma and Nuxt 3

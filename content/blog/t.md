@@ -3,9 +3,6 @@ title: Populate SQL Database with CSV
 description: Populate SQL database with some values from a CSV file.
 date: 2023-06-26
 cover: golf0.jpg
-tags:
-- nuxt
-- vue
 ---
 
 This post demonstrates how to populate our database with some values from a CSV file.
