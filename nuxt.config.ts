@@ -1,16 +1,16 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: false },
-  modules: ['@nuxt/content', '@nuxtjs/tailwindcss', '@nuxtjs/color-mode', '@nuxtjs/apollo', 'nuxt-icon'],
+  modules: ['@nuxt/content', '@nuxtjs/tailwindcss', '@nuxtjs/color-mode', 'nuxt-icon'],
 
   colorMode: {
     classSuffix: ''
   },
 
-  runtimeConfig: {
+/*   runtimeConfig: {
     githubToken: process.env.GITHUB_TOKEN
   },
-
+ */
   content: {
     documentDriven: true,
     highlight: {
@@ -19,14 +19,14 @@ export default defineNuxtConfig({
     }
   },
 
-  apollo: {
+  /* apollo: {
     clients: {
       default: {
         tokenName: 'github-token',
         httpEndpoint: 'https://api.github.com/graphql'
       }
     }
-  },
+  }, */
 
   plugins: ['~/plugins/apollo.js']
 })
