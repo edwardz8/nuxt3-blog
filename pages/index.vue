@@ -32,8 +32,9 @@
             so I'm still stuck in VS Code land indefinitely. 🌲
         </p>
     </div>
-   <Projects />
+   <!-- <Projects /> -->
     <Posts />
+    <Footer />
 </template>
 
 <script setup>

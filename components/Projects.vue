@@ -27,10 +27,6 @@ const query = gql`
 
 const { data, refresh } = await useAsyncQuery(query)
 
-/* onMounted(() => {
-  refresh
-}) */
-
 </script>
 
 <template>
