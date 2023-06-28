@@ -10,7 +10,7 @@ const { data: posts } = await useAsyncData('latest-posts', () =>
 <template>
     <section class="container mx-auto mt-8 mb-4">
         <h1 class="text-xl ml-4 mb-6 mt-14">Latest Posts</h1>
-        <div class="grid md:grid-cols-3 pt-8 gap-10">
+        <div class="grid md:grid-cols-3 pt-8 gap-10 ml-2 mr-2">
             <Post :posts="posts" />
         </div>
     </section>
