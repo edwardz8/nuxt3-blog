@@ -34,6 +34,7 @@
     </div>
     <Projects />
     <Posts />
+    <Footer />
 </template>
 
 <script setup>
