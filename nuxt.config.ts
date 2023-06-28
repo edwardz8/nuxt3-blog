@@ -1,16 +1,16 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: false },
-  modules: ['@nuxt/content', '@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
+  modules: ['@nuxt/content', '@nuxtjs/tailwindcss', '@nuxtjs/apollo', '@nuxtjs/color-mode'],
 
   colorMode: {
     classSuffix: ''
   },
 
-  /* runtimeConfig: {
+  runtimeConfig: {
     githubURL: process.env.GITHUB_URL,
     githubToken: process.env.GITHUB_TOKEN
-  }, */
+  },
 
   content: {
     documentDriven: true,
@@ -20,7 +20,7 @@ export default defineNuxtConfig({
     }
   },
 
-/*   apollo: {
+  apollo: {
     authType: "Bearer",
     authHeader: "Authorization",
     tokenStorage: "cookie",
@@ -30,7 +30,7 @@ export default defineNuxtConfig({
         httpEndpoint: 'https://api.github.com/graphql'
       }
     }
-  }, */
+  },
 
   plugins: ['~/plugins/apollo.ts']
 })
