@@ -48,12 +48,12 @@ onMounted(() => {
         <div class="mt-2 flex justify-between">
           <div>
             <span>
-              <Icon name="heroicons-outline:star" />
+              <!-- <Icon name="heroicons-outline:star" /> -->
             </span>
             <span class="font-semibold ml-2">{{ project.stargazers.totalCount }}</span>
           </div>
           <div>
-            <Icon name="heroicons-outline:eye" />
+            <!-- <Icon name="heroicons-outline:eye" /> -->
             <span class="ml-2">{{ project.watchers.totalCount }}</span>
           </div>
         </div>
