@@ -6,7 +6,7 @@
         </div>
     </div>
     <div class="container mx-auto px-4 mt-8 mb-8 text-md text-gray-200">
-        <p>Hi, I'm Zach. I'm a frontend software developer working with Vue.js, Laravel and Go. I've primarily worked with
+        <p>Hi, I'm Zach. I'm a frontend software developer working with Vue.js, React.js and Java. I've primarily worked with
             JavaScript & TypeScript - along with several other languages - and a number of their
             libraries and frameworks, for 6+ years and as my programming skills grow so does my passion and curiosity for
             computer science and engineering. I also like long single file components written in tsx within Vue 3.x and
