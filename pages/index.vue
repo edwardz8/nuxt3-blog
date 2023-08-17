@@ -52,6 +52,15 @@ useSeoMeta({
   ogImage: 'https://example.com/image.png',
   twitterCard: 'summary_large_image',
 })
+
+useHead({
+  script: [
+    {
+      src: 'https://e8z.vercel.app',
+      tagPosition: 'head'
+    }
+  ]
+})
 </script>
 
 
