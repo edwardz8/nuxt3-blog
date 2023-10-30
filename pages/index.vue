@@ -13,12 +13,7 @@
             but something sticking around and receiving all of my effort is a different story. But that changed in 2016 with software development.</p>
 
         <p class="mt-8 mb-8">
-            Professionaly, I spend most of my time building Gutenberg blocks with React and Vue in WordPress land for Oak Ridge National Laboratory. I'm currently working on a writeup on 
-            how to add a Vite project into a WordPress plugin while working with the WordPress API and Advanced Custom Fields. Headless is a cool technoloy but where the team and I are at as a group we find that it's not the best tech for the job for the time being.
-            Outside of my professional work, I enjoy creating apps like this one: https://nuxt3-88.vercel.app and this: https://swspecs.vercel.app (both built using Nuxt 3). I also like staying up-to-date with and learning about emerging idealogies in frontend land, however, 
-            I've begun to branch out and dedicate spare time to Rust and Go and want to build up my skills in both languages as not only do both have a bright future ahead, but I've honestly just enjoyed tinkering with them. 
-            I have goals in mind as it relates to these two languages and I'm sure I'll reach them but between work and life it's been a slow journey learning and navigating the backend. 
-            And there really aren't enough hours in the day when you suffer from an addiction to golf like I do.
+            Professionaly, I spend most of my time with PHP in WordPress land for Oak Ridge National Laboratory. Outside of my professional work, I enjoy creating apps like this one: https://rotorink.com and this: https://swspecs.vercel.app (both built using Nuxt 3). I also like staying up-to-date with and learning about emerging idealogies in frontend land.
         </p>
 
         <p class="mt-8 mb-4">
