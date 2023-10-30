@@ -41,7 +41,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Zach Edwards Software Development Blog',
-  ogTitle: 'Dev Blog by Zach Edwards',
+  ogTitle: 'Dev Blog by Zach',
   description: 'I write about my life in tech while working with Vue.js and Nuxt 3',
   ogDescription: 'I write about my life in tech while working with Vue.js and Nuxt 3',
   ogImage: 'https://example.com/image.png',
